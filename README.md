@@ -4,7 +4,6 @@ This is the place where I opensource stuff and break things 💻
 - 🔭  I’m currently working on something cool 🧐
 - 🌱  I’m currently learning AI, ML and IOT
 - 💬  Ask me about anything related to C/C++/Python or NLP/Tensorflow/Django/Flask
-- 📫  Portfolio: [@rhehd721](http://rhehd721.pythonanywhere.com)
 - ⚡️  Fun fact: I :heart: Animals
 
 **Languages and Tools**  

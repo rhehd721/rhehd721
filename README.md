@@ -1,9 +1,8 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things 💻
 
-- 🔭  I’m currently working on something cool 🧐
-- 🌱  I’m currently learning AI, ML and IOT
-- 💬  Ask me about anything related to C/C++/Python or NLP/Tensorflow/Django/Flask
+- 🔭  I'm currently a Network Developer 🧐
+- 🌱  I'm interested in AI, ML and IOT
 - ⚡️  Fun fact: I :heart: Animals
 
 **Languages and Tools**  

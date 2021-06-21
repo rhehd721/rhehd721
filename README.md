@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things 💻
 
 - 🔭  I'm currently a Network Developer 🧐
-- 🌱  I'm interested in AI, ML and IOT
+- 🌱  I'm interested in ML, DL and IOT
 - ⚡️  Fun fact: I :heart: Animals
 
 **Languages and Tools**  
